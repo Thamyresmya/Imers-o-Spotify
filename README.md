@@ -25,7 +25,7 @@ Projeto em desenvolvimento na imersão Alura Front-End, criando a interface do S
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Cadastro-de-filmes).
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Imers-o-Spotify).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
