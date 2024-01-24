@@ -1,5 +1,5 @@
 
-![](geral/img/Capa.jpg)
+![](./src/geral/Capa.png)
 
 
 # Spotify Imersão Alura
@@ -21,7 +21,14 @@ Projeto em desenvolvimento na imersão Alura Front-End, criando a interface do S
 - `JavaScript`: É uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. Com JavaScript, é possível manipular o conteúdo da página, responder a eventos do usuário, realizar chamadas a serviços web, e muito mais. Ele é essencial para o desenvolvimento de aplicativos web modernos e responsivos.
 - `HTML`: É a linguagem de marcação usada para estruturar e organizar o conteúdo de uma página web. Ela fornece a base para a criação de documentos web, definindo elementos como cabeçalhos, parágrafos, listas, links, imagens e outros componentes. HTML não lida com o estilo ou a interatividade da página, focando apenas na estrutura do conteúdo.
 - `CSS`: É usado para estilizar e formatar a apresentação visual de elementos HTML. Ele permite controlar a aparência da página, definindo propriedades como cores, fontes, margens, posicionamento e layout. Com o CSS, é possível criar layouts responsivos e designs atraentes.
-- `DISPLAY`:
+
+
+- `EXEMPLO`:
+<p align="center">
+    <img width="100%" height="400" src="./src/geral/html-css-javascript.webp"></img>
+</p>
+
+- `APROFUNDANDO SOBRE DISPLAY`:
     - `block`: Um elemento com display: block sempre inicia em uma nova linha e ocupa toda a largura disponível.
     Ele empilha verticalmente um sobre o outro.
 
@@ -43,6 +50,11 @@ Projeto em desenvolvimento na imersão Alura Front-End, criando a interface do S
 
     - `none`: Um elemento com display: none é completamente removido do fluxo de layout e não é renderizado na tela.
 
+<p align="center">
+    <img width="100%" height="300" src="./src/geral/display-css.png"></img>
+    <img width="100%" height="300" src="./src/geral/display-flex-grid-css.png"></img>
+</p>
+
 
 ## 📁 Acesso ao projeto
 
@@ -56,6 +68,9 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
 
+## Jogos para Aprender
+
+É possível jogar e aprender muito sobre css user o [Link](https://flexboxfroggy.com/), para acessar exercicios do `FLEXBOX FROGGY`.
 
 
 ## Desenvolvedores
