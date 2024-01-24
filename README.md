@@ -25,7 +25,7 @@ Projeto em desenvolvimento na imersão Alura Front-End, criando a interface do S
 
 - `EXEMPLO`:
 <p align="center">
-    <img width="100%" height="400" src="./src/geral/html-css-javascript.webp"></img>
+    <img width="80%" height="300" src="./src/geral/html-css-javascript.webp"></img>
 </p>
 
 - `APROFUNDANDO SOBRE DISPLAY`:
