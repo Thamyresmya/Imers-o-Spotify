@@ -51,7 +51,7 @@ Projeto em desenvolvimento na imersão Alura Front-End, criando a interface do S
     - `none`: Um elemento com display: none é completamente removido do fluxo de layout e não é renderizado na tela.
 
 <p align="center">
-    <img width="80%" height="200" src="./src/geral/display-css.png"></img>
+    <img width="80%" height="230" src="./src/geral/display-css.png"></img>
     <img width="80%" height="300" src="./src/geral/display-flex-grid-css.png"></img>
 </p>
 
